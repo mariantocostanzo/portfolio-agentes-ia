@@ -19,7 +19,7 @@ ARI News es un sistema automatizado que busca noticias reales en internet, filtr
 * **Interfaz Profesional:** Publicación y generación automática de un sitio interactivo.
 
 ### 🖼️ Captura del Proyecto
-![ARI News Dashboard](assets/ari-news-dashboard.png)
+![ARI News Dashboard](assets/Captura%20desde%202026-10-10%2021-40-14.png)
 
 ---
 
