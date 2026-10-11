@@ -40,7 +40,7 @@ ARI Flow es un sistema de trabajo autónomo diseñado para sacar al humano del l
    * **Derivación:** Enrutamiento a un operador humano en caso de requerir supervisión.
 
 ### 🖼️ Captura del Escenario en Make
-![ARI Flow Scenario](assets/ari-flow-make.png)
+![ARI Flow Scenario](assets/Captura%20desde%202026-10-10%2021-44-07.png)
 
 ---
 
